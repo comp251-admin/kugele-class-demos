@@ -1,1 +1,1 @@
-# comp251-sp24-kugele-class-demos
+# COMP251 In-Class Demos (Spring 2024)
