@@ -19,5 +19,8 @@ int main(int argc, char **argv) {
     printf("i_array[%d]: %d\n", i, i_array[i]); // same as *(i_array + i)
   }
 
+  free(i_array);
+  i_array = NULL;
+
   return 0;
 }
