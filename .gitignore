@@ -2,3 +2,9 @@
 *.a
 a.out
 bin/
+
+debug/gdb_add
+debug/gdb_io
+debug/mystery
+debug/run
+debug/valgrind_prog*
