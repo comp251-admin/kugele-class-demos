@@ -29,6 +29,7 @@ int main(int argc, char **argv) {
   printf("%s\n", concat_all);
 
   free(carray);
+  free(concat_target);
 
   return 0;
 }
